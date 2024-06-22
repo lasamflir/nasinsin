@@ -58,6 +58,24 @@ Just like `ki` and `pi`, every nested sentence started with `lonu` is closed wit
 * `lonu ona li jan pi kulupu utala ke ke li pona` means "(the event of them being a soldier) is good".
 * `lonu ona li jan pi kulupu utala ke li pona ke` means "the event of them being a soldier and being good" and is an interjection because there's no main predicate. If this was the intended meaning, the first `ke` could be omitted too, as `li` cannot be nested in a `pi` phrase so there's no doubt that the `pi` phrase is closed.
 
+## Eliminating preverbs
+
+There is now never any reason to use preverbs and to prevent ambiguity, they are now gone from the language. `lonu` clauses enclose what was previously modified by a preverb.
+
+* `mi open moku e pan` now just means "I eatingly-open the bread" and is not the correct translation for "I start eating the bread" any more.
+* `mi open e lonu mi moku e pan` now means "I start eating the bread".
+
+This also allows for unambiguous preverb stacking.
+
+## Implied subjects
+
+Inside `lonu`, there must always be a complete sentence with a predicate. Enclosing only a noun in `lonu` makes no sense and this allows for a shorter sentence structure than main sentences. `lonu` clauses can **begin with their predicate**, leaving no subject. You know this has happened where the enclosed sentence appears to contain no verb. Any such sentence is implied to begin with its verb, skipping the subject.
+
+In such cases, the subject of the lonu clause is left to context, but it's usually going to be obvious. If specificity is needed, including the subject anyway is always an option. Dropping the subject just makes `lonu` clauses a bit more compact.
+
+* `mi lukin e lonu alasa` means "I look at someone hunting" or "I look at hunting".
+* Last section's example, `mi open e lonu mi moku e pan` can now become `mi open e lonu moku e pan`. In this case the subject is strongly implied to be `mi`.
+
 # Separating sentences
 
 If spoken quickly without long pauses to indicate the position of full stops, nasin sin Lonuke as shown so far would still be full of ambiguity. If a `ke` is left off the end of a sentence and the next sentence could appear to "run into" it, then a listener may become confused as to what belongs to the previous sentence and what belongs to the next sentence. One way this could be solved is making all `ke` particles obligatory at the ends of sentences, but this is unworkable because you'd constantly need to remember how deep you are in nested structures.
