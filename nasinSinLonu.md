@@ -185,7 +185,7 @@ Pauses are written with dots and are given the letter word `awenpu`. With dots e
 
 `ilo Sanli` is now `.ilo .sanlil.`
 
-## Specifing anu
+# Specifing anu
 `.anu` is the generally poorly defined and inconsitent in common useage. nasin sin Lonuke fixes this by nailing down `.anu`'s useage. Specifically when `.anu` has a content word on either side, it means that one or both of the content words are applicible. When anu has a subject on either side, the same semantics apply but over the whole subject. The same strucure may be used for predicates, objects, prepositions, and prepositional phrases. Finally `.anu` may be used at a sentence level by following `.i`.
 
 * `jan wan .anu tu li lukin` means "One or two people saw".`
