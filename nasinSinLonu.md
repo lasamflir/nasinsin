@@ -168,19 +168,20 @@ Pauses are written with dots and are given the letter word `awenpu`. With dots e
 `ilo Sanli` is now `.ilo .sanlil.`
 
 ## Specifing anu
-`anu` is the generally poorly defined and inconsitent in common useage. nasin sin Lonuke fixes this by nailing down `anu`'s useage. Specifically when `anu` has a content word on either side, it means that one or both of the content words are applicible. When anu has a subject on either side, the same semantics apply but over the whole subject. The same strucure may be used for predicates, objects, prepositions, and prepositional phrases.
+`.anu` is the generally poorly defined and inconsitent in common useage. nasin sin Lonuke fixes this by nailing down `.anu`'s useage. Specifically when `.anu` has a content word on either side, it means that one or both of the content words are applicible. When anu has a subject on either side, the same semantics apply but over the whole subject. The same strucure may be used for predicates, objects, prepositions, and prepositional phrases. Finally `.anu` may be used at a sentence level by following `.i`.
 
-* `jan wan anu tu li lukin` means "One or two people saw".`
-* `jan wan anu en soweli tu li lukin` means "One person or two animals saw".`
-* `jan li lukin anu li moku kon` means "Someone saw or smelled".`
-* `jan li lukin e mi anu e soweli tu` means "Someone saw me or two animals".`
-* `jan li tawa ta anu wa tomo` means "Someone moved to or from the house".`
+* `jan wan .anu tu li lukin` means "One or two people saw".`
+* `jan wan .anu .en soweli tu li lukin` means "One person or two animals saw".`
+* `jan li lukin .anu li moku kon` means "Someone saw or smelled".`
+* `jan li lukin .e mi anu .e soweli tu` means "Someone saw me or two animals".`
+* `jan li tawa ta .anu wa tomo` means "Someone moved to or from the house".`
 * `jan li tawa ta ma kasi anu wa tomo` means "Someone moved to the forest or from the house".`
+* `jan li lukin .e soweli tu .i .anu jy tawa ta ma kasi` means "Someone saw two animals, or they went to the forest".`
 
 Additionally this structure is fairly limited if `anu` is the only word that makes use of it, so there is a series of nimi sin inspired by `anu`.
 These new conjunctions are:
 
-* `enu` for `and`
-* `inu` for `which conjunction should go here?`
-* `onu` for `if and only if`
-* `unu` for `whether or not`
+* `.enu` for `and`
+* `.inu` for `which conjunction should go here?`
+* `.onu` for `if and only if`
+* `.unu` for `whether or not`
