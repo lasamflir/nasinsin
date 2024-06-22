@@ -12,6 +12,7 @@ To use nasin sin Lonuke, your existing nasin must do the following:
 
 * Have te/to and allow them to contain an arbitrary number of sentences.
 * Have ki
+* Use nasin nanpa pona
 
 # Resolving nested pi
 
@@ -95,7 +96,7 @@ Most people's nasins probably don't introduce 15 nimi sin at once, but for such 
 
 To spell out a word, use a `te ... to` quote consisting exclusively of the word's spelling. For example, I'd spell out my name as `te ipu ly opu sy apu ny ly ipu to`.
 
-Outside of quotes, strings of letters or single letters act as pronouns that refer back to the last thing that begins with any of the letters in the same order. For example, `i soweli lili li alasa e kala. i ky li loje.` means "a small animal hunts fish. It is red." but "it" refers clearly to the fish, not the animal. This is not the case with `ona` which makes no distinctions at all between referents. Strings of letters are very useful as many Toki Pona nouns begin with the same head noun, and therefore the same letter. `i jan San en jan Timi li wile e ni. i sy li pali.` means "John and Tim want this. John works."
+Outside of quotes, strings of letters or single letters act as pronouns that refer back to the last thing that begins with any of the letters in the same order. For example, `i soweli lili li alasa e kala. i ky li loje.` means "a small animal hunts fish. It is red." but "it" refers clearly to the fish, not the animal. This is not the case with `ona` which makes no distinctions at all between referents. Named entities are refrenced by the spelling of their name rather than their head noun, as many entities share the same head noun. `i jan San en jan Timi li wile e ni. i sy li pali.` means "John and Tim want this. John works." They may also be stacked together to further specify what they can refer to, so `sy opu` may refer to `soweli` but not `suno`.
 
 # Prepositions
 
@@ -118,7 +119,7 @@ As described in [sona pona la's page on prepositions](https://sona.pona.la/wiki/
 * `i jan li toki e tomo wa mi` means "a person talks about my car".	
 * `i jan li toki e tomo tawa mi` means "a person talks about a house to me".
 
-For easy memorisation and to add an essential missing word to Toki Pona, all five prepositions merge into `pelosatawa`, which means "preposition" as a noun and "is a preposition" as a predicate.
+These prepositions are not always enough, the word `pijo` may be used to convert the following phrase followed by `e` into a preposition. For example, `waso tawa pijo ante kute e akesi` means "Birds move visually unlike reptiles."
 
 # Reforming multiple-li sentences
 
@@ -162,6 +163,6 @@ When a name ends in n, you can add -y and then treat it as a name that ends in a
 
 With any consonant now able to end names, it's important to make it clear when this is happening to prevent mishearing. This is done by inserting pauses around names. The pause at the start ensures that names that start with valid Toki Pona words don't "break off" and are clearly separated from the head noun phrase, as an example `jan Kelis i` might end up sounding like `jan ke li si`, which is no good.
 
-Pauses are written with dots and are given the letter word `awenpu`. With dots enclosing names and their forms completely unable to clash with official words, capitalisation becomes redundant and Toki Pona may be written entirely in lowercase. However, capitalisation may still be optionally used to indicate stress in names, to borrow their stress pattern into Toki Pona.
+Pauses are written with dots and are given the letter word `awenpu`. With dots enclosing names and their forms completely unable to clash with official words, capitalisation becomes redundant and Toki Pona may be written entirely in lowercase. However, capitalisation may still be optionally used to indicate stress in names, to borrow their stress pattern into Toki Pona. Additionally to avoid conflicts like `sin a` versus `sina` pauses are used before words that begin with a vowel.
 
-`ilo Sanli` is now `ilo .sanlil.`
+`.ilo Sanli` is now `.ilo .sanlil.`
