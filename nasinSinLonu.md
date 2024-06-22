@@ -166,3 +166,21 @@ With any consonant now able to end names, it's important to make it clear when t
 Pauses are written with dots and are given the letter word `awenpu`. With dots enclosing names and their forms completely unable to clash with official words, capitalisation becomes redundant and Toki Pona may be written entirely in lowercase. However, capitalisation may still be optionally used to indicate stress in names, to borrow their stress pattern into Toki Pona. Additionally to avoid conflicts like `sin a` versus `sina` pauses are used before words that begin with a vowel.
 
 `ilo Sanli` is now `.ilo .sanlil.`
+
+## Specifing anu
+`anu` is the generally poorly defined and inconsitent in common useage. nasin sin Lonuke fixes this by nailing down `anu`'s useage. Specifically when `anu` has a content word on either side, it means that one or both of the content words are applicible. When anu has a subject on either side, the same semantics apply but over the whole subject. The same strucure may be used for predicates, objects, prepositions, and prepositional phrases.
+
+* `jan wan anu tu li lukin` means "One or two people saw".`
+* `jan wan anu en soweli tu li lukin` means "One person or two animals saw".`
+* `jan li lukin anu li moku kon` means "Someone saw or smelled".`
+* `jan li lukin e mi anu e soweli tu` means "Someone saw me or two animals".`
+* `jan li tawa ta anu wa tomo` means "Someone moved to or from the house".`
+* `jan li tawa ta ma kasi anu wa tomo` means "Someone moved to the forest or from the house".`
+
+Additionally this structure is fairly limited if `anu` is the only word that makes use of it, so there is a series of nimi sin inspired by `anu`.
+These new conjunctions are:
+
+* `enu` for `and`
+* `inu` for `which conjunction should go here?`
+* `onu` for `if and only if`
+* `unu` for `whether or not`
