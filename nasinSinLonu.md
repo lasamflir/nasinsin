@@ -165,4 +165,4 @@ With any consonant now able to end names, it's important to make it clear when t
 
 Pauses are written with dots and are given the letter word `awenpu`. With dots enclosing names and their forms completely unable to clash with official words, capitalisation becomes redundant and Toki Pona may be written entirely in lowercase. However, capitalisation may still be optionally used to indicate stress in names, to borrow their stress pattern into Toki Pona. Additionally to avoid conflicts like `sin a` versus `sina` pauses are used before words that begin with a vowel.
 
-`.ilo Sanli` is now `.ilo .sanlil.`
+`ilo Sanli` is now `.ilo .sanlil.`
