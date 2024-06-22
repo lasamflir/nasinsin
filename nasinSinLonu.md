@@ -118,8 +118,7 @@ As described in [sona pona la's page on prepositions](https://sona.pona.la/wiki/
 
 * `i jan li toki e tomo wa mi` means "a person talks about my car".	
 * `i jan li toki e tomo tawa mi` means "a person talks about a house to me".
-
-These prepositions are not always enough, the word `pijo` may be used to convert the following phrase followed by `e` into a preposition. For example, `waso tawa pijo ante kute e akesi` means "Birds move visually unlike reptiles."
+For easy memorisation and to add an essential missing word to Toki Pona, all five prepositions merge into `pelosatawa`, which means "preposition" as a noun and "is a preposition" as a predicate. The prepositions are not always enough, the word `pijo` may be used to convert the following phrase followed by `e` into a preposition. For example, `waso tawa pijo ante kute e akesi` means "Birds move visually unlike reptiles."
 
 # Reforming multiple-li sentences
 
